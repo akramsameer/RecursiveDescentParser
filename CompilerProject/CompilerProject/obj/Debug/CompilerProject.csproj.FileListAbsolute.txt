@@ -1,0 +1,9 @@
+c:\users\akram\documents\visual studio 2017\Projects\CompilerProject\CompilerProject\bin\Debug\CompilerProject.exe.config
+c:\users\akram\documents\visual studio 2017\Projects\CompilerProject\CompilerProject\bin\Debug\CompilerProject.exe
+c:\users\akram\documents\visual studio 2017\Projects\CompilerProject\CompilerProject\bin\Debug\CompilerProject.pdb
+c:\users\akram\documents\visual studio 2017\Projects\CompilerProject\CompilerProject\obj\Debug\CompilerProject.csprojResolveAssemblyReference.cache
+c:\users\akram\documents\visual studio 2017\Projects\CompilerProject\CompilerProject\obj\Debug\CompilerProject.Form1.resources
+c:\users\akram\documents\visual studio 2017\Projects\CompilerProject\CompilerProject\obj\Debug\CompilerProject.Properties.Resources.resources
+c:\users\akram\documents\visual studio 2017\Projects\CompilerProject\CompilerProject\obj\Debug\CompilerProject.csproj.GenerateResource.Cache
+c:\users\akram\documents\visual studio 2017\Projects\CompilerProject\CompilerProject\obj\Debug\CompilerProject.exe
+c:\users\akram\documents\visual studio 2017\Projects\CompilerProject\CompilerProject\obj\Debug\CompilerProject.pdb
